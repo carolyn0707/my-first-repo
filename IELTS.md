@@ -2,7 +2,7 @@
 
 ## 1. Topic: Travel destinations
 
-I would love to travel to destinations across the globe, both overseas and within my home country. I'm <span style="color:red; font-weight:bold">particularly </span>fond of travelling, and places such as Europe, America and East Asia all <span style="color:red">intrigue</span> me. I'm <span style="color:red">g<span style="color:red"></span>enuinely</span> <span style="color:red">fascinated</span> by the lives of people from all corners of the world.
+I would love to travel to destinations across the globe, both overseas and within my home country. I'm <span style="color:red; font-weight:bold">particularly</span> fond of travelling, and places such as Europe, America and East Asia all <span style="color:red">intrigue</span> me. I'm <span style="color:red">genuinely</span> <span style="color:red">fascinated</span> by the lives of people from all corners of the world.
 
 ## 2. Topic: Things to experience when travelling abroad
 
